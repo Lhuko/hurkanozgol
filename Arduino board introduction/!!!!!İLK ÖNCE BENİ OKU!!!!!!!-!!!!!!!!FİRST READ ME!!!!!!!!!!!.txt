@@ -1,0 +1,24 @@
+Herkese merhabalar,klasörümüzün içindeki arduinoxml adlı Klasör (.xml uzantılı olmayan!!) cascade 
+üzerinden oluşturduğum .xml uzantılı dosya için gerekli olan şeyleri içermektedir.
+Classifier klasöründe yine arduino.xml dosyası bulunmaktadır.
+p dosyasında ise resimlerin kırpılıp düzenlenmiş hali.
+Tespit dosyasında ise cascade üzerinden test yapılıp tespit yapılan görüntüler bulunmaktadır.
+Sizin kod ile çalıştırmaya ihtiyaç duyacağınız tek şey ardunio.xml dosyasıdır.
+
+Lütfen bunun fazlasıyla acemice bir model olduğunu biliniz.Benim için de bir ilk oldu.
+Bir sürü eksiği olan geliştirmeye açık bir modeldir.Sadece burada depolayıp paylaşmak istedim.
+
+
+
+Hello everyone, the Folder named arduinoxml (without .xml extension!!) in our folder is cascade.
+It contains the necessary things for the .xml file that I created via.
+There is also the arduino.xml file in the Classifier folder.
+In the p file, the images are cropped and arranged.
+In the detection file, there are images that are tested and detected via cascade.
+The only thing you will need to run with the code is the ardunio.xml file.
+
+Please know that this is a very inexperienced model. It was a first for me as well.
+It is a model open to development with many shortcomings. I just wanted to store and share it here.
+
+
+
